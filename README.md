@@ -56,11 +56,10 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 
 ### 📈 **GitHub Activity** (Interactive)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjaiswal034&theme=react-dark&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&hide_border=true&area_color=00D4AA22)](https://github.com/lavjaiswal034)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjaiswal034&theme=github-dark&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&hide_border=true&area_color=00D4AA22)](https://github.com/lavjaiswal034)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavjaiswal034&theme=github_dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&border_color=30363d)](https://github.com/lavjaiswal034)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavjaiswal034&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&border_color=30363d&langs_count=10)](https://github.com/lavjaiswal034)
-
 ---
 
 <sub>💚 **"Code is read more than written. Write accordingly."** — Guido van Rossum</sub>  
