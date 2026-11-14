@@ -53,19 +53,12 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 
 ---
+### 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavjaiswal034&theme=github_dark)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavjaiswal034&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavjaiswal034&theme=github_dark)
 
---
-
-### 🐍 Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/lavjaiswal034/lavjaiswal034/output/github-contribution-grid-snake.svg)
-![Contribution Snake (Dark)](https://raw.githubusercontent.com/lavjaiswal034/lavjaiswal034/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
----
-![Snake](https://github.com/lavjaiswal034/lavjaiswal034/blob/output/github-contribution-grid-snake.svg?raw=true)
 --
 <sub>💚 **"Code is read more than written. Write accordingly."** — Guido van Rossum</sub>  
 <sub>⚽ State Footballer • 🥇 Gold Swimmer • ♟️ Chess • 🤖 AI/ML & Data Science Engineer • CMRIT '27</sub>
