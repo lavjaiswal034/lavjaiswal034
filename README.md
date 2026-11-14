@@ -56,10 +56,9 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavjaiswal034&theme=github_dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&border_color=30363d)](https://github.com/lavjaiswal034)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lavjaiswal034&theme=github_dark&hide_border=true&background=0d1117&stroke=30363d&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)](https://github.com/lavjaiswal034)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavjaiswal034&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&border_color=30363d&langs_count=10&cache_seconds=14400)](https://github.com/lavjaiswal034)
-
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034)
+[![Top Languages](https://img.shields.io/badge/Top_Languages-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034?tab=overview)
 ---
 
 <sub>💚 **"Code is read more than written. Write accordingly."** — Guido van Rossum</sub>  
