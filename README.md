@@ -53,7 +53,7 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 
 ---
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjaiswal034&theme=classic&bg_color=0d1117&color=00D4AA&area=true&hide_border=true)](https://github.com/lavjaiswal034)
+![Contribution Snake](https://raw.githubusercontent.com/lavjaiswal034/lavjaiswal034/output/github-contribution-grid-snake.svg)
 
 ---
 
