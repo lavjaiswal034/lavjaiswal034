@@ -14,8 +14,8 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| **Customer Churn Predictor** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![XGBoost](https://img.shields.io/badge/XGBoost-EC6A0E?style=flat-square&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io) [![CatBoost](https://img.shields.io/badge/CatBoost-008080?style=flat-square&logo=catboost&logoColor=white)](https://catboost.ai) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)](https://gunicorn.org) | ✅ **Live** |
-| **Student Score Predictor** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![FastAPI](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) | ✅ **Complete** |
+| **Customer Churn Predictor** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![XGBoost](https://img.shields.io/badge/XGBoost-EC6A0E?style=flat-square&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io) [![CatBoost](https://img.shields.io/badge/CatBoost-008080?style=flat-square&logo=catboost&logoColor=white)](https://catboost.ai) [![FastAPI](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)](https://gunicorn.org) | ✅ **Live** |
+| **Student Score Predictor** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) | ✅ **Complete** |
 | **Netflix ML Analysis & Prediction** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) | ✅ **Complete** |
 
 ---
@@ -57,11 +57,15 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lavjaiswal034&theme=github_dark)
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lavjaiswal034&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lavjaiswal034&theme=github_dark)
-__
+
+--
 
 ### 🐍 Contribution Snake
 
 ![Contribution Snake](https://raw.githubusercontent.com/lavjaiswal034/lavjaiswal034/output/github-contribution-grid-snake.svg)
 ![Contribution Snake (Dark)](https://raw.githubusercontent.com/lavjaiswal034/lavjaiswal034/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+---
+![Snake](https://github.com/lavjaiswal034/lavjaiswal034/blob/output/github-contribution-grid-snake.svg?raw=true)
+--
 <sub>💚 **"Code is read more than written. Write accordingly."** — Guido van Rossum</sub>  
 <sub>⚽ State Footballer • 🥇 Gold Swimmer • ♟️ Chess • 🤖 AI/ML & Data Science Engineer • CMRIT '27</sub>
