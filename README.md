@@ -59,7 +59,16 @@ Building production ML systems, scalable APIs & data products. Turning messy dat
 [![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034)
 [![Top Languages](https://img.shields.io/badge/Top_Languages-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034?tab=repositories)
 [![Contributions](https://img.shields.io/badge/Contributions-View_Profile-00D4AA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavjaiswal034?tab=overview)
----
+
+**Most Used:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 <sub>💚 **"Code is read more than written. Write accordingly."** — Guido van Rossum</sub>  
 <sub>⚽ State Footballer • 🥇 Gold Swimmer • ♟️ Chess • 🤖 AI/ML & Data Science Engineer • CMRIT '27</sub>
